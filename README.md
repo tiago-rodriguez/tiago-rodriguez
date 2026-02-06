@@ -13,7 +13,7 @@ Estoy en constante búsqueda de aprendizaje, me esfuerzo por mantenerme actualiz
 - 📱  [Proyecto 2](https://the-movie-place.netlify.app/)
 
 ## Estadísticas de GitHub📈
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tiago-rodriguez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tiago-rodriguez)](https://git.io/streak-stats)
 
 ## Contacto 📧
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-rodriguez/) [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tiitirodriguez/) 
